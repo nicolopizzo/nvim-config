@@ -1,5 +1,5 @@
 return {
-  { "savq/melange-nvim" },
+  -- { "savq/melange-nvim" },
   { "folke/tokyonight.nvim" },
 
   {
